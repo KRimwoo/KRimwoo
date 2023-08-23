@@ -35,10 +35,10 @@
 <hr>
 <div align="center">
   <a href="https://solved.ac/rini1289">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rini1289" />
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rini1289" height="150px"/>
   </a>
   <a href="https://github.com/KRimwoo">
-    <img src="https://github-readme-stats.vercel.app/api?username=KRimwoo&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=panda" />
+    <img src="https://github-readme-stats.vercel.app/api?username=KRimwoo&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=panda" height="150px"/>
   </a>
 </p>
 
