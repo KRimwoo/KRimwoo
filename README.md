@@ -5,23 +5,23 @@
 
 <p align="center">
 
-  <h2>👋 About Me</h2>
+  <h3>👋 About Me</h2>
   
-  <p>
+  <div style="background-color: blue; padding: 10px; border-radius: 10px;">
     <ul>
       <li><p display="flex" align-items="flex-start">🚀 Cadet at &nbsp;<strong><img src="https://img.shields.io/badge/42seoul-333333?style=for-the-badge&logo=42&logoColor=white"/></strong>.</p></li>
-      <li><p>🦁 Member of <strong>Kookmin University's Like Lion (멋쟁이 사자처럼) 11th Generation</strong>.</p></li>
-      <li><p>📚 <strong>Majoring </strong> in English for Global Communication and <strong>Software (Computer Science)</strong> at <strong>Kookmin University</strong>.</p></li>
+      <li><p>🦁 Member of&nbsp;<strong>Kookmin University's Like Lion (멋쟁이 사자처럼) 11th Generation</strong>.</p></li>
+      <li><p>📚 <strong>Majoring</strong>&nbsp;in English for Global Communication and <strong>Software (Computer Science)</strong> at Kookmin Univ.</p></li>
     </ul>
     
-  </p>
+  </div>
   
 </p>
 
 
-<h2 align="center">💻 Tech Stack</h2>
+<h3>💻 Tech Stack</h2>
 
-<p align="center">
+<div align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
   <br>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-</p>
+</div>
 
 
 <div align="center">
