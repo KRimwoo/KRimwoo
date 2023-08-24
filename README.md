@@ -7,7 +7,7 @@
 <hr>
 <p>
   <ul>
-    <li><p display="flex" align-items="flex-start">🚀 Cadet at &nbsp;<strong><img src="https://img.shields.io/badge/42seoul-333333?style=flat&logo=42&logoColor=white"/></strong>.</p></li>
+    <li><p display="flex" align-items="flex-start">🚀 9th Cadet at &nbsp;<strong><img src="https://img.shields.io/badge/42seoul-333333?style=flat&logo=42&logoColor=white"/></strong>.</p></li>
     <li><p>🦁 Member of&nbsp;<strong>Kookmin University's Like Lion (멋쟁이 사자처럼) 11th Generation</strong>.</p></li>
     <li><p>📚 <strong>Majoring</strong>&nbsp;in English for Global Communication and <strong>Software (Computer Science)</strong> at Kookmin Univ.</p></li>
   </ul>
