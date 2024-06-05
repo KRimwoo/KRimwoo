@@ -42,8 +42,10 @@
   <a href="https://github.com/KRimwoo">
     <img src="https://github-readme-stats.vercel.app/api?username=KRimwoo&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=panda" height="150px"/>
   </a>
-</p>
-
+  <a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/farms/KRimwoo"/>
+  </a>
+</div>
 
 
 
