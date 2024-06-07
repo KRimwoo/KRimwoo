@@ -40,10 +40,10 @@
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rini1289" height="150px"/>
   </a>
   <a href="https://github.com/KRimwoo">
-    <img src="https://github-readme-stats.vercel.app/api?username=KRimwoo&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=panda" width="100%" height="300px"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=KRimwoo&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=panda" height="150px"/>
   </a>
   <a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/farms/KRimwoo"/>
+    <img src="https://render.gitanimals.org/farms/KRimwoo" width="100%" height="200px"/>
   </a>
 </div>
 
