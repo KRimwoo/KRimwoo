@@ -43,7 +43,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=KRimwoo&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=panda" height="150px"/>
   </a>
   <a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/farms/KRimwoo" width="100%" height="200px"/>
+    <img src="https://render.gitanimals.org/farms/KRimwoo" height="300"/>
   </a>
 </div>
 
